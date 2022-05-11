@@ -1,0 +1,5 @@
+export const API_BASE = "http://localhost:8080"
+export const API_PRODUCTS = API_BASE + "/products"
+export const API_USER = API_BASE + "/users"
+export const API_CARTS = API_BASE+ "/carts"
+export const API_SEARCH = API_PRODUCTS + "?q="
